@@ -1,5 +1,5 @@
 # ScreenFlow7-zh_CH.lproj
-ScreenFlow7 中文包 汉化包
+ScreenFlow7.x(当前最新版7.1.1) 中文包 汉化包
 
 需放入两个 zh_cn 文件， 放入对应目录即可
 
